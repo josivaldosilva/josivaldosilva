@@ -15,7 +15,7 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia e programação. Atualm
 
 ## 🌟 Projetos em destaque
 
-Em breve irei compartilhar aqui o meu projeto **Sneakers**. Fique de olho!
+https://sneakersstore-cyan.vercel.app/
 
 ---
 
